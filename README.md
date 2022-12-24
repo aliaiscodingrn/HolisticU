@@ -1,2 +1,2 @@
 # AnkleFootClinic
-https://lumigidey.github.io/AnkleFootClinic/
+https://avelauw.github.io/AnkleClinic/
