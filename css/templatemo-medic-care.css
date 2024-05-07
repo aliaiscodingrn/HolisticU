@@ -128,7 +128,7 @@ a:hover {
   display: inline-block;
   text-decoration: none;
   border: 1px solid var(--border-color);
-  color: #dd7fd3;
+  color: #59178a;
   pointer-events: auto;
   font-weight: var(--font-weight-semibold);
   line-height: 40px;
